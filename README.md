@@ -2,7 +2,7 @@
 - 👀 I’m interested in .DevOps , CloudOps , MlOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on any open project
-- 📫 How to reach me ...mail me at : frozsiddique100@gmail.com
+- 📫 How to reach me ...mail me at : firozsiddique100@gmail.com
 
 <!---
 mfzs/mfzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
