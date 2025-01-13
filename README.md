@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Firoj Siddiwque
+- 👋 Hi, I’m Firoj Siddique
 - 👀 I’m interested in DevOps, CloudOps, DevSecOps, and cloud cost optimization
 - 🌱 I’m currently practising DevOps
 - 💞️ I’m looking to collaborate on any open project
