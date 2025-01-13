@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mfzs
-- 👀 I’m interested in DevOps , CloudOps , DevSecOps
+- 👋 Hi, I’m Firoj Siddiwque
+- 👀 I’m interested in DevOps, CloudOps, DevSecOps, and cloud cost optimization
 - 🌱 I’m currently practising DevOps
 - 💞️ I’m looking to collaborate on any open project
 - 📫 How to reach me ...mail me at : firozsiddique100@gmail.com
