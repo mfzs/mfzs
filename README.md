@@ -1,6 +1,6 @@
 # Hi, I’m Firoj Siddique
 
-I’m a Senior DevOps / Platform Engineer with 5+ years of experience building scalable cloud-native infrastructure, Kubernetes platforms, CI/CD systems, and AI-assisted operational tooling across AWS, Azure, and GCP.
+I’m a Senior DevOps / Platform Engineer with 5.5+ years of experience building scalable cloud-native infrastructure, Kubernetes platforms, CI/CD systems, and AI-assisted operational tooling across AWS, Azure, and GCP.
 
 ## About Me
 - Passionate about DevOps, MLOps, DevSecOps, and cloud cost optimization
@@ -16,7 +16,7 @@ I’m a Senior DevOps / Platform Engineer with 5+ years of experience building s
 - Observability & Logging: Prometheus, Grafana, ELK, Fluent Bit, CloudWatch
 - Databases & Messaging: RDS, DocumentDB, Kafka, RabbitMQ, Airflow
 - Networking & Security: VPC, IAM, Subnets, VPN, Firewall, DNS, Compliance
-- Cost Optimization (FinOps): Rightsizing, S3 lifecycle policies, instance optimization, budgeting
+- Cost Optimization (FinOps): Rightsizing, S3 lifecycle policies, instance optimization, network calls, budgeting
 
 ## Experience
 ### SDE-2 DevOps Engineer | Inflection.io | May 2025 – Present
@@ -26,7 +26,7 @@ I’m a Senior DevOps / Platform Engineer with 5+ years of experience building s
 - Implemented cloud cost optimization strategies including moving older data from S3 to Glacier, enforcing log retention policies, optimizing EKS instance usage, and right-sizing Kafka clusters, achieving a 25% cost reduction while maintaining SLA compliance.
 - Managed service outages by identifying root causes quickly, implementing permanent fixes, and improving platform reliability for enterprise clients.
 
-### Senior DevOps Engineer / Member of Technical Staff 3 | Neuron7.ai | Feb 2025 – May 2025 / May 2024 – Feb 2025
+### Senior DevOps Engineer | Neuron7.ai | May 2024 – May 2025
 - Designed and implemented scalable, reusable, and automated deployment pipelines using Terraform and Helm, reducing new client onboarding time from days to hours.
 - Automated deployment workflows, cutting deployment time by 80–90% and increasing system reliability.
 - Managed on-call production incidents and resolved critical issues to ensure high availability and minimal downtime.
@@ -50,9 +50,11 @@ I’m a Senior DevOps / Platform Engineer with 5+ years of experience building s
 
 ### Jr. Associate - IT | Unthinkable Solutions | Jan 2021 – Oct 2021
 - Worked as a Junior DevOps Engineer supporting infrastructure and deployment workflows.
+- Supported a crypto-focused client by managing deployment workflows and monitoring infrastructure health.
 
 ### Experience Highlights
-- 5+ years of experience across cloud platforms, Kubernetes, infrastructure automation, CI/CD, monitoring, reliability engineering, and FinOps.
+- 5.5+ years of experience across cloud platforms, Kubernetes, infrastructure automation, CI/CD, monitoring, reliability engineering, and FinOps.
+- Built experience across both team-driven and independent environments, leading team responsibilities at Increff and later working as a solo engineer at Inflection.
 - Strong history of improving deployment speed, incident response, platform reliability, and cloud cost efficiency.
 
 ## Current Focus
