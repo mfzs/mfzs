@@ -69,5 +69,5 @@ I’m a Senior DevOps / Platform Engineer with 5.5+ years of experience building
 
 ## Contact
 - Email: firozsiddique100@gmail.com
-- LinkedIn: linkedin.com/in/firoj-siddique
-- GitHub: github.com/mfzs
+- LinkedIn: [linkedin.com/in/firoj-siddique](https://www.linkedin.com/in/firoj-siddique)
+- GitHub: [github.com/mfzs](https://github.com/mfzs)
